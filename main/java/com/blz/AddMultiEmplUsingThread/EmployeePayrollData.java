@@ -13,7 +13,7 @@ public class EmployeePayrollData {
 	private char gender;
 	public String gender1;
 
-	/* Constructor */
+	
 	public EmployeePayrollData(int id, String name, double salary) {
 		this.id = id;
 		this.name = name;
